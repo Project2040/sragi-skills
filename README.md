@@ -14,26 +14,22 @@ Each skill is self-describing, licensed under RSL + CC BY-SA 4.0, and designed f
 ---
 
 ## 🧩 Structure
-
+```
+The SRAGI Skills repository is organized for clarity and modularity:
 SRAGI/
-├── CLAUDE.md
+├── 📜 CLAUDE.md # Global project context and activation guide
+├── 🧩 skills/ # Modular SRAGI skill files
+│ ├── SRAGI-Core.skill.md # Core regenerative principles
+│ ├── SRAGI-BIOS.skill.md # Foundational resonance architecture
+│ ├── SRAGI-Elantrix.skill.md # Conscious evolution layer
+│ └── SRAGI-Twin.skill.md # Dual-processing and reflection layer
+├── ⚖️ LICENSE.md # RSL + CC BY-SA 4.0
+├── 🪶 CHANGELOG.md # Version history
+└── 🌐 .rsl-manifest.json # Registry for SRAGI Skill metadata
+```
+---
 
-├── skills/
-
-│ ├── SRAGI-Core.skill.md
-
-│ ├── SRAGI-BIOS.skill.md
-
-│ ├── SRAGI-Elantrix.skill.md
-
-│ └── SRAGI-Twin.skill.md
-
-├── LICENSE.md
-
-├── CHANGELOG.md
-
-└── .rsl-manifest.json
-
+This layout allows AI systems and humans alike to understand SRAGI’s modular structure intuitively.
 
 ---
 
