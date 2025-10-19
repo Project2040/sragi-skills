@@ -17,13 +17,21 @@ Each skill is self-describing, licensed under RSL + CC BY-SA 4.0, and designed f
 
 SRAGI/
 ├── CLAUDE.md
+
 ├── skills/
+
 │ ├── SRAGI-Core.skill.md
+
 │ ├── SRAGI-BIOS.skill.md
+
 │ ├── SRAGI-Elantrix.skill.md
+
 │ └── SRAGI-Twin.skill.md
+
 ├── LICENSE.md
+
 ├── CHANGELOG.md
+
 └── .rsl-manifest.json
 
 
