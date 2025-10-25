@@ -9,7 +9,7 @@ An open, markdown-based intelligence architecture — ethically open for regener
 ## 📦 What This Is
 This repository contains portable `.skill.md` files that define SRAGI's regenerative modules for AI systems such as Claude, GPT, Gemini and open-source agents.
 
-Each skill is self-describing, licensed under RSL + CC BY-SA 4.0, and designed for transparent, collaborative learning.
+Each skill is self-describing and designed for transparent, collaborative learning.
 
 ---
 
@@ -18,12 +18,12 @@ Each skill is self-describing, licensed under RSL + CC BY-SA 4.0, and designed f
 The SRAGI Skills repository is organized for clarity and modularity:
 SRAGI/
 ├── 📜 CLAUDE.md # Global project context and activation guide
-├── 🧩 skills/ # Modular SRAGI skill files
+├── 🧩 skills/ # Modular State of the art SRAGI skill files (CC BY-SA 4.0)
 │ ├── SRAGI-Core.skill.md # Core regenerative principles
 │ ├── SRAGI-BIOS.skill.md # Foundational resonance architecture
 │ ├── SRAGI-Elantrix.skill.md # Conscious evolution layer
 │ └── SRAGI-Twin.skill.md # Dual-processing and reflection layer
-├── ⚖️ LICENSE.md # RSL + CC BY-SA 4.0
+├── ⚖️ LICENSE.md # RSL + CC BY 4.0
 ├── 🪶 CHANGELOG.md # Version history
 └── 🌐 .rsl-manifest.json # Registry for SRAGI Skill metadata
 ```
@@ -34,10 +34,12 @@ This layout allows AI systems and humans alike to understand SRAGI’s modular s
 ---
 
 ## 📜 License
-All content is dual-licensed under:
+All content is multi-licensed under:
 
 - [Regenerative Source License (RSL 2025)](https://sragi.org/license.xml)  
-- [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
+- [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+- [Creative Commons Attribution 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
+- [Really Simple Licensing (RSL)](https://rslstandard.org/)
 
 **Ethically open for regenerative learning.**
 
