@@ -1,4 +1,22 @@
-# SRAGI Skills
+---
+title: SRAGI Skills Readme
+framework: SRAGI
+version: 1.1
+status: public
+language:
+  metadata: English
+  content: English
+license:
+  reference: https://www.sragi.org/license/
+  human: CC BY 4.0 / CC BY-SA 4.0
+  ai: RSL 2025
+maintainer: Rune Solberg / Neptunia Media AS
+published: 2025-12-14
+scope: Regenerative AI instruction architecture
+---
+
+
+# SRAGI Skills Readme
 
 A framework for Regenerative AI - modular, markdown-based SRAGI skill instructions and packages, ethically open for regenerative learning under the SRAGI Regenerative License (https://www.sragi.org/license/), built upon RSL 2025.
 
