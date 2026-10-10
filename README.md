@@ -90,12 +90,22 @@ Attribution example: *SRAGI® Ultra Lite 1.0.0, created by Rune Solberg and publ
 
 SRAGI® is a registered trademark of Neptunia Media AS in Norway (reg. no. 342880). The licence does not grant rights to the brand or to claims of official status. See [`LICENSE`](LICENSE).
 
-## Good to know
+## Disclaimer
 
-SRAGI is an experimental framework for information, reflection and decision support. It is not professional advice or certification. It does not replace medical, legal, financial or psychological assessment, or your own judgment.
+SRAGI is provided "as is", free of charge and without warranty of any kind. To the extent permitted by law, Neptunia Media AS is not liable for loss or damage arising from the use of SRAGI or from answers produced by an AI using it.
 
-Earlier material from 2025 (BIOS 2.22 and Core AI-OS 1.0) is kept unchanged in [`archive/2025-12`](archive/2025-12/).
+- **The AI is still the AI.** SRAGI guides how an AI answers but cannot guarantee it. An AI may ignore, misread or only partly follow the instructions, and it can still be wrong. Check anything important before you act on it.
+- **Not advice.** SRAGI is an experimental framework for information, reflection and decision support. It is not professional advice or certification, and it does not replace medical, legal, financial or psychological assessment, or your own judgment.
+- **In a crisis, contact people, not AI.** If you or someone else is in danger, contact local emergency services. In Norway, call 113 (medical emergency) or 112 (police).
+- **Your AI service's terms apply.** Your conversations are processed by the AI service you use, under its terms and privacy policy.
+- **No affiliation.** ChatGPT, Claude, Gemini and other product names are trademarks of their owners. SRAGI is not affiliated with or endorsed by them.
 
-**Contact:** [contact@sragi.org](mailto:contact@sragi.org) · Commercial licensing: [commercial@sragi.org](mailto:commercial@sragi.org) · [sragi.org](https://sragi.org)
+## Earlier material
+
+Material from 2025 (BIOS 2.22 and Core AI-OS 1.0) is kept unchanged in [`archive/2025-12`](archive/2025-12/).
+
+## Contact
+
+General: [contact@sragi.org](mailto:contact@sragi.org) · Commercial licensing: [commercial@sragi.org](mailto:commercial@sragi.org) · [sragi.org](https://sragi.org)
 
 Rune Solberg, Neptunia Media AS (org. no. 932 481 375), Norway.
