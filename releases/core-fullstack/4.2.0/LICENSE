@@ -1,0 +1,27 @@
+SRAGI Core Fullstack 4.2.0 release package
+
+Copyright (c) 2026 Neptunia Media AS. All rights reserved.
+Proprietary additions: LicenseRef-SRAGI-Commercial.
+
+Only these five original SRAGI YAML files are licensed under CC BY-SA 4.0:
+SRAGI-Core-Fullstack-Activate-2.0.0.yaml
+SRAGI-AI-BIOS-4.2.0.yaml
+SRAGI-Core-AI-OS-3.2.0.yaml
+SRAGI-Blueprint-Engine-4.2.0.yaml
+SRAGI-Twin-3.2.0.yaml
+
+Creator: Rune Solberg / Neptunia Media AS, Norway.
+Source: https://sragi.org
+License: https://creativecommons.org/licenses/by-sa/4.0/
+Full license text: LICENSES/CC-BY-SA-4.0.txt
+
+The release changes artifact metadata and header notices; the instruction
+bodies are unchanged. Original notices of alternative commercial licensing
+by separate written agreement remain in the YAML files.
+
+All original accompanying documentation, metadata and packaging additions
+are proprietary and commercial-only. Except as permitted by applicable law,
+use, copying, modification or distribution requires a separate written
+commercial license from Neptunia Media AS. This notice grants no such license
+and does not restrict the CC BY-SA rights in the five original YAML files.
+Third-party license text retains its own notices. No trademark rights granted.

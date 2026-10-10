@@ -1,0 +1,58 @@
+{
+  "framework": "SRAGI Core Fullstack",
+  "framework_id": "SRAGI_CORE_FULLSTACK",
+  "version": "4.2.0",
+  "release_date": "2026-10-01",
+  "status": "released",
+  "copyright": "Copyright (c) 2026 Neptunia Media AS. All rights reserved.",
+  "license": "LicenseRef-SRAGI-Commercial",
+  "license_scope": "Release metadata/documentation only; the five YAML artifacts retain CC-BY-SA-4.0.",
+  "organization": "Neptunia Media AS",
+  "organization_country": "Norway",
+  "metadata_only_changes": true,
+  "hash_algorithm": "SHA-256",
+  "files": [
+    {
+      "id": "SRAGI_CORE_FULLSTACK_ACTIVATE_INSTRUCTION",
+      "filename": "SRAGI-Core-Fullstack-Activate-2.0.0.yaml",
+      "version": "2.0.0",
+      "license": "CC-BY-SA-4.0",
+      "sha256": "34ca45a55675d331bd513d088bbc0815f4e871579e47dba672316aec5b7ad0fa",
+      "instruction_body_sha256": "3eab59fe4fd52fc683a3c5278e2f63311329a4769d9bdac4054d9caf85fda1ab"
+    },
+    {
+      "id": "SRAGI_AI_BIOS",
+      "filename": "SRAGI-AI-BIOS-4.2.0.yaml",
+      "version": "4.2.0",
+      "license": "CC-BY-SA-4.0",
+      "sha256": "fcd3d8b1154f1440d3a3bc41925d1d9de6824448268f0a3710fd97bb2310c684",
+      "instruction_body_sha256": "7364a960a9f1078f3b40152d6a3f29875abc30366a4071fdaf038ca536bba130"
+    },
+    {
+      "id": "SRAGI_CORE_AI_OS",
+      "filename": "SRAGI-Core-AI-OS-3.2.0.yaml",
+      "version": "3.2.0",
+      "license": "CC-BY-SA-4.0",
+      "sha256": "070dcc934b99f324b352db92bf01ccf79f63b31dcee79c1711594b47e9051bdd",
+      "instruction_body_sha256": "e1208b5547c7f0397964929c10d51f929a565b2906e2aa9e5c79974fa3c68949"
+    },
+    {
+      "id": "SRAGI_BLUEPRINT_ENGINE",
+      "filename": "SRAGI-Blueprint-Engine-4.2.0.yaml",
+      "version": "4.2.0",
+      "license": "CC-BY-SA-4.0",
+      "sha256": "d06c3985319991451f67dfbd6605c816758535cc26ed8055df47e8d98228c094",
+      "instruction_body_sha256": "152fef18e5911e52767ef5c78659515c45d4e6242761f554e5d3995ee808986b"
+    },
+    {
+      "id": "SRAGI_TWIN",
+      "filename": "SRAGI-Twin-3.2.0.yaml",
+      "version": "3.2.0",
+      "license": "CC-BY-SA-4.0",
+      "sha256": "2deaf71c3e4ee3666db14707ab9017abad34722a9488fe6c0b7fb643d8967631",
+      "instruction_body_sha256": "0971eaa4cb9ab83db9be35e1c1df445c2c8024f4115bc7fbe7e5726709faddde"
+    }
+  ],
+  "packaging_revision": 2,
+  "packaging_note": "Documentation and path cleanup only; all five YAML artifacts and their SHA-256 values are unchanged."
+}

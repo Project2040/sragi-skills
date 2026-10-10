@@ -1,0 +1,8 @@
+# Released files are byte-exact: their SHA-256 checksums must survive every checkout,
+# also on Windows with core.autocrlf. Everything else is stored with LF.
+* text=auto eol=lf
+releases/** -text
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.zip binary

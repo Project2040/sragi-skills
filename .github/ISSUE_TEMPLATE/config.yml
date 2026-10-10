@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Email
+    url: https://sragi.org
+    about: Prefer email? Write to contact@sragi.org. Security problems go there too, with SECURITY in the subject line.

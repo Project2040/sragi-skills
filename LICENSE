@@ -1,0 +1,41 @@
+SRAGI® Skills: licences in this repository
+
+Copyright (c) 2026 Neptunia Media AS (org. no. 932 481 375), Norway.
+
+Licensing is decided per file. No licence should be inferred for a file that
+is not covered below. Where this overview and a notice inside a file or a
+release folder differ, the more specific notice takes precedence.
+
+1. The eight YAML instruction files are licensed under CC BY-SA 4.0
+   (SPDX: CC-BY-SA-4.0):
+
+     releases/core-fullstack/4.2.0/       Activate, AI-BIOS, Core AI-OS,
+                                          Blueprint Engine and Twin
+     releases/standalones/2026-10-01/     Beliefs, Lite and Ultra Lite
+
+   The full licence text is in LICENSES/CC-BY-SA-4.0.txt inside each release
+   folder, and at https://creativecommons.org/licenses/by-sa/4.0/.
+   Alternative commercial terms are available only by separate written
+   agreement with Neptunia Media AS.
+
+2. All other files in releases/ (companion documentation, README, LICENSE,
+   metadata and checksums) are proprietary to Neptunia Media AS. The LICENSE
+   file in each release folder is authoritative for that release. Standard
+   licence texts keep their own terms.
+
+3. The 2025 files in archive/2025-12/ keep the licence stated in each file
+   (BIOS 2.22 and Core AI-OS 1.0: CC BY-SA 4.0). The archived README
+   describes the repository's licensing as of 14 December 2025 and does not
+   apply to other files. Rights already granted are not revoked.
+
+4. Other files in this repository (README files, CONTRIBUTING.md, the issue
+   forms, archive/2025-12/README.md): Copyright (c) 2026 Neptunia Media AS.
+   All rights reserved.
+
+Trademark
+
+SRAGI® is a registered trademark of Neptunia Media AS in Norway
+(reg. no. 342880). No licence in this repository grants rights to the SRAGI®
+brand or logos, or to claims of certification or official status.
+
+Contact: commercial@sragi.org

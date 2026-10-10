@@ -1,0 +1,63 @@
+name: Test feedback
+description: Tell us how a SRAGI profile worked for you.
+title: "Feedback: "
+labels: ["feedback"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for testing. Issues are public, so leave out personal and confidential details.
+  - type: dropdown
+    id: profile
+    attributes:
+      label: Profile
+      options:
+        - Ultra Lite 1.0.0
+        - Lite 1.0.0
+        - Beliefs 4.0.0
+        - Core Fullstack 4.2.0
+    validations:
+      required: true
+  - type: input
+    id: ai
+    attributes:
+      label: AI system and model
+      description: For example ChatGPT, Claude, Gemini or a local model, with the model version if you know it.
+    validations:
+      required: true
+  - type: dropdown
+    id: activation
+    attributes:
+      label: Did the AI confirm that the profile was active?
+      options:
+        - "Yes"
+        - "No"
+        - Not sure
+    validations:
+      required: true
+  - type: textarea
+    id: question
+    attributes:
+      label: What did you ask?
+      description: Describe the question or situation, without personal or confidential details.
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: What happened?
+      description: What was good, what was wrong or surprising?
+    validations:
+      required: true
+  - type: textarea
+    id: comparison
+    attributes:
+      label: Compared with the same question without SRAGI
+      description: Optional, but the most useful part of a test.
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Privacy
+      options:
+        - label: My feedback contains no personal data or confidential material.
+          required: true

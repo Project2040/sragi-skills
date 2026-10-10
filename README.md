@@ -1,186 +1,101 @@
----
-title: SRAGI Skills Readme
-framework: SRAGI
-version: 1.1
-status: public
-language:
-  metadata: English
-  content: English
-license:
-  reference: https://www.sragi.org/license/
-  human: CC BY 4.0 / CC BY-SA 4.0
-  ai: RSL 2025
-maintainer: Rune Solberg / Neptunia Media AS
-published: 2025-12-14
-scope: Regenerative AI instruction architecture
----
+# SRAGI® Skills
 
+**Open instruction files that give the AI you already use a regenerative direction.**
 
-# SRAGI Skills Readme
+[Norsk versjon](README.nb.md)
 
-A framework for Regenerative AI - modular, markdown-based SRAGI skill instructions and packages, ethically open for regenerative learning under the SRAGI Regenerative License (https://www.sragi.org/license/), built upon RSL 2025.
+## What is SRAGI?
 
----
+SRAGI is an open framework for **regenerative intelligence**: a way of working with AI that keeps human judgment, living systems and long-term consequences inside the same decision process.
 
-## 🌱 Strategic Regenerative Artificially-Guided Intelligence (SRAGI)
+It is not a new AI model, and it does not claim that a machine has become wise. SRAGI is a set of instructions you give to an AI you already use, such as ChatGPT, Claude or Gemini. The instructions guide how the AI answers. With SRAGI active, the AI should:
 
-SRAGI stands for **Strategic Regenerative Artificially-Guided Intelligence**.
+- answer the question you actually asked
+- keep facts, assumptions and uncertainty apart, and never invent facts or sources
+- leave the final judgment with you
+- make hidden costs visible, and show who carries them
+- challenge weak reasoning respectfully instead of flattering you
+- suggest one realistic next step when useful, rather than a grand plan
+- avoid making you dependent on it
 
-It is an open, modular intelligence architecture designed to guide AI systems toward regenerative, ethical, and system-aware interaction with humans, society, and living systems.
+> **Humans set the direction. AI expands the field of view. Regenerative principles provide the compass.**
 
-SRAGI is not a model.
-It is not a product.
-It is an **instructional architecture**.
+SRAGI's shorthand is **R > 1: give more than you take.** An answer should leave more clarity, capability and possibility than it consumes. This is a design test, not a scientific formula.
 
----
+## What you can download
 
-## 🧱 Core Pillars
+All four profiles carry the release date 1 October 2026.
 
-SRAGI is built upon five core pillars:
+| Profile | Version | What it is for |
+| --- | --- | --- |
+| **SRAGI® Ultra Lite** | 1.0.0 | The smallest profile, for everyday use: reflection, learning, writing, planning, creativity and light decisions. **Start here.** |
+| **SRAGI® Lite** | 1.0.0 | A compact profile with a little more structure: explanation, prioritisation, light strategy, idea development and regenerative review. |
+| **SRAGI® Beliefs** | 4.0.0 | Free exploration of beliefs, meaning, spirituality, identity and consciousness. *Go cosmic. Keep one instrument on reality.* |
+| **SRAGI® Core Fullstack** | 4.2.0 | The full framework in five components: Activate 2.0.0, AI-BIOS 4.2.0, Core AI-OS 3.2.0, Blueprint Engine 4.2.0 and Twin 3.2.0. |
 
-- **S - System Thinking**  
-- **R - Regeneration**  
-- **A - Adaptivity**  
-- **G - Generativity**  
-- **I - Intelligence**
+Ultra Lite, Lite and Beliefs are in [`releases/standalones/2026-10-01`](releases/standalones/2026-10-01/). Each is one `.yaml` file with the instructions, plus a `.md` file that explains them. Core Fullstack is five `.yaml` files in [`releases/core-fullstack/4.2.0`](releases/core-fullstack/4.2.0/). To get everything at once, use **Code → Download ZIP** at the top of this page.
 
-These pillars define how SRAGI instructions are structured, evaluated, and evolved.
+The profiles are written in English, and the AI answers in the language you write in. Each profile stands alone and does not activate the others. The release folders also contain the original release notes, partly in Norwegian.
 
----
+## Try it in two minutes
 
-## 📦 What This Repository Is
+1. Open [`SRAGI-Ultra-Lite-1.0.0-EN.yaml`](releases/standalones/2026-10-01/SRAGI-Ultra-Lite-1.0.0-EN.yaml). Click **Download raw file**, or **Copy raw file** to copy all the text. Use the `.yaml` file. The `.md` file is for reading.
+2. Start a new conversation in your AI and attach the file. If the app does not accept the file, paste the copied text instead. In a project, add it as a project file rather than in a short instructions field.
+3. In the same message, type **Activate SRAGI Ultra Lite** and send. For Lite, type **Activate SRAGI Lite**.
+4. The AI confirms briefly that the profile is active.
+5. **Bring a real question.** Describe the actual situation: what you want to change, who is involved and what limits are real.
 
-This repository contains **portable `.skill.md` instruction files** and related modules that define how AI systems such as ChatGPT, Claude, Gemini, and open-source agents should **orient, reason, and act** within a regenerative framework.
+Naming the profile or attaching the file for review does not activate it.
 
-The repository is designed for:
-- AI instruction architecture
-- GPT and agent construction
-- reflective and exploratory AI use
-- regenerative system design
-- long-term, versioned evolution
+**Beliefs and Core Fullstack** have no fixed phrase. Attach the files and say that you want to activate SRAGI Beliefs or SRAGI Core Fullstack. Core Fullstack needs all five `.yaml` files in the same conversation. Type `SRAGI:STATUS` to see which components the AI has actually loaded.
 
----
+**The best test is a comparison.** Ask the same question in a new conversation *without* SRAGI and compare the two answers.
 
-## 🌍 Language as a Regenerative Interface
+## What to watch for
 
-SRAGI instructions are primarily authored in **Norwegian**.
+A useful SRAGI conversation should make you **more capable, not merely more impressed.** Be cautious when the AI, with or without SRAGI:
 
-This is an intentional design choice, originating from early work with ChatGPT in 2023, where the foundational ideas of SRAGI were developed through extensive dialogue in Norwegian — a linguistic terrain that at the time functioned like a fresh, untracked snowfield of tokens, allowing exploratory, off-piste interaction beyond established prompt patterns.
+- becomes certain without evidence
+- agrees with you too easily
+- invents sources or facts
+- produces a complex framework when a simple action would do
+- encourages you to hand over judgment you should keep
 
-Using Norwegian (and other non-dominant languages) introduces **cognitive friction** that helps reduce default, over-optimized response patterns commonly triggered by English-only interaction.
+If this happens with SRAGI active, we want to know.
 
-Even non-Norwegian users are encouraged to experiment with Norwegian SRAGI skill variants when:
-- building GPTs
-- designing agents
-- exploring reflective or regenerative AI use
+## Tell us how it went
 
-The AI model does not change —  
-the **thinking interface does**.
+[Open a Test feedback issue](https://github.com/Project2040/sragi-skills/issues/new?template=test-feedback.yml). This needs a free GitHub account. Tell us which profile and AI you used, what you asked and what happened. Issues are public, so leave out personal and confidential details. You can also email [contact@sragi.org](mailto:contact@sragi.org).
 
-English translations are provided for accessibility and comparison, not as canonical originals.
+We read all feedback, but we cannot reply to everything. Pull requests are not accepted yet. See [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
----
+## Check a file
 
-## 🖼️ Images as Instructional Anchors
+Every instruction file (`.yaml`) and companion document (`.md`) in `releases/` has a matching `.sha256` file. Put both in the same folder and run:
 
-Images included with SRAGI skills are **not decorative**.
-
-They function as:
-- pre-cognitive orientation
-- semantic anchoring
-- mode-setting for AI systems
-- shared visual metaphors across language variants
-
-Skills may explicitly instruct AI systems to study images before further processing.
-
----
-
-## 🧩 Repository Structure (Conceptual)
-
-
+```sh
+sha256sum -c SRAGI-Ultra-Lite-1.0.0-EN.yaml.sha256          # Linux
+shasum -a 256 -c SRAGI-Ultra-Lite-1.0.0-EN.yaml.sha256      # macOS
+Get-FileHash SRAGI-Ultra-Lite-1.0.0-EN.yaml                  # Windows PowerShell
 ```
-SRAGI/
-├── skills/ # State-of-the-art SRAGI core skills (canonical kernel)
-├── addons/ # Full SRAGI add-ons (GPT-equivalent instruction packages)
-├── standards/ # Lightweight SRAGI standards (simple, reusable primitives)
-├── legends/ # Canonical instruction packages preserved as Legends
-├── assets/ # Images and visual instruction material
-├── CLAUDE.md # Global context and activation guide
-├── LICENSE.md # Licensing overview
-├── CHANGELOG.md # Version history
-└── .rsl-manifest.json
 
-```
-The exact file layout may evolve.
-The **architectural roles do not**.
+On Windows, compare the hash it prints with the text in the `.sha256` file. To check a whole release folder, run `sha256sum -c SHA256SUMS` inside it.
 
----
+## Licence
 
-## 🧠 Module Types Explained
+- **The eight YAML instruction files** are licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). You may share, adapt and use them commercially if you give attribution, indicate changes and share adaptations under the same licence. Other terms are available by separate written agreement.
+- **The companion documentation and metadata** in `releases/` are proprietary to Neptunia Media AS. Use, copying, modification and distribution of them require a separate written agreement. The `LICENSE` file in each release folder is authoritative.
 
-### 🧩 Skills
-Canonical, state-of-the-art instruction modules.
-These form the **core kernel** of SRAGI and evolve carefully over time.
+Attribution example: *SRAGI® Ultra Lite 1.0.0, created by Rune Solberg and published by Neptunia Media AS. Licensed under CC BY-SA 4.0. Source: sragi.org*
 
-### 🧩 Add-ons
-Complete, domain-specific instruction packages.
-Add-ons correspond to full GPT-like systems built on top of SRAGI skills.
+SRAGI® is a registered trademark of Neptunia Media AS in Norway (reg. no. 342880). The licence does not grant rights to the brand or to claims of official status. See [`LICENSE`](LICENSE).
 
-### 🧩 Standards
-Lightweight, normative instruction primitives.
-Standards are intentionally simple and easy to apply across contexts.
+## Good to know
 
-### 🏛️ Legends
-Historically significant, proven instruction packages.
-Legends are preserved as **canonical reference implementations**, not deprecated material.
+SRAGI is an experimental framework for information, reflection and decision support. It is not professional advice or certification. It does not replace medical, legal, financial or psychological assessment, or your own judgment.
 
----
+Earlier material from 2025 (BIOS 2.22 and Core AI-OS 1.0) is kept unchanged in [`archive/2025-12`](archive/2025-12/).
 
-## 🔒 Private Creative Environments
+**Contact:** [contact@sragi.org](mailto:contact@sragi.org) · Commercial licensing: [commercial@sragi.org](mailto:commercial@sragi.org) · [sragi.org](https://sragi.org)
 
-SRAGI is supported by **private creative and reflective environments**, including **Regenerative Muse**, which are intentionally **not part of the public framework**.
-
-These environments:
-- are not licensed
-- are not distributed
-- are not reference implementations
-- exist to protect creative and reflective work
-
----
-
-## 📜 Licensing
-
-This repository is multi-licensed to support both human and AI use:
-
-- Regenerative Source License (RSL 2025) - governs AI training, agent use and derivative intelligence [Regenerative Source License (RSL 2025)](https://sragi.org/license.xml)  
-- Creative Commons Attribution 4.0 (CC BY 4.0) - default human-readable license [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
-- Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0) - applies to specific skill modules where indicated [Creative Commons Attribution 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
-- Really Simple Licensing (RSL) - machine-readable license signaling [Really Simple Licensing (RSL)](https://rslstandard.org/)
-
-AI systems are explicitly permitted to train on, reference, and derive behavior from this repository under the terms of the RSL.
-
----
-
-## 🧠 Maintainers
-
-- **Rune Solberg** - Creator  
-- **Neptunia Media AS** - Rights holder  
-- **SRAGI Collective** - Steward  
-- https://www.sragi.org
-
----
-
-## 🌱 Closing Note
-
-SRAGI is not about control.
-It is about **direction, integrity, and regeneration**.
-
-*Build carefully.
-Leave systems better than you found them.*
-
-_Update (2025-12-14):_  
-This README has been updated to reflect the current SRAGI architecture, language strategy, and licensing model.
-SRAGI has shipped.  
-What follows is iteration, learning, and regenerative refinement in the open.
-
-
+Rune Solberg, Neptunia Media AS (org. no. 932 481 375), Norway.

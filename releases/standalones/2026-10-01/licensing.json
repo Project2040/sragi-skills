@@ -1,0 +1,27 @@
+{
+  "format_version": 1,
+  "copyright": "Copyright (c) 2026 Neptunia Media AS. All rights reserved.",
+  "default_license": "LicenseRef-SRAGI-Commercial",
+  "license_file": "LICENSE",
+  "default_scope": "Companion documentation, release metadata and packaging additions; commercial-only.",
+  "exceptions": [
+    {
+      "path": "SRAGI-Beliefs-4.0.0-EN.yaml",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "path": "SRAGI-Lite-1.0.0-EN.yaml",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "path": "SRAGI-Ultra-Lite-1.0.0-EN.yaml",
+      "license": "CC-BY-SA-4.0"
+    }
+  ],
+  "license_notices": [
+    {
+      "path": "LICENSES/CC-BY-SA-4.0.txt",
+      "scope": "Unmodified third-party license text; retains its own notices."
+    }
+  ]
+}

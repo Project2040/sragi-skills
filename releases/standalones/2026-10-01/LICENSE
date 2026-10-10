@@ -1,0 +1,26 @@
+SRAGI Standalones release package
+
+Copyright (c) 2026 Neptunia Media AS. All rights reserved.
+Proprietary additions: LicenseRef-SRAGI-Commercial.
+
+Only these three original YAML instruction files are licensed under CC BY-SA 4.0:
+SRAGI-Beliefs-4.0.0-EN.yaml
+SRAGI-Lite-1.0.0-EN.yaml
+SRAGI-Ultra-Lite-1.0.0-EN.yaml
+
+Author: Rune Solberg / Neptunia Media AS, Norway.
+Source: https://sragi.org
+Public YAML license: https://creativecommons.org/licenses/by-sa/4.0/
+License text: LICENSES/CC-BY-SA-4.0.txt
+
+All companion documentation, release metadata, packaging and build tools are
+proprietary and commercial-only. Except as permitted by applicable law, use,
+copying, modification and distribution require a separate written commercial
+agreement with Neptunia Media AS. This notice grants no such agreement and
+does not restrict CC BY-SA rights in the three YAML files. Third-party license
+text retains its own notices. No trademark rights are granted.
+
+Release changes: final version labels, date, status and organization metadata;
+Beliefs license changed to CC BY-SA 4.0 by the operator's explicit instruction.
+Ultra Lite's recommended attribution names its final version. Instruction
+behavior is preserved. Historical source snapshots retain their original bytes.

@@ -1,0 +1,82 @@
+{
+  "name": "SRAGI Standalones",
+  "release_date": "2026-10-01",
+  "prepared_on": "2026-10-06",
+  "status": "released",
+  "copyright": "Copyright (c) 2026 Neptunia Media AS. All rights reserved.",
+  "license": "LicenseRef-SRAGI-Commercial",
+  "organization": "Neptunia Media AS",
+  "organization_country": "Norway",
+  "instruction_behavior": "preserved",
+  "hash_algorithm": "SHA-256",
+  "files": [
+    {
+      "id": "SRAGI_BELIEFS",
+      "filename": "SRAGI-Beliefs-4.0.0-EN.yaml",
+      "version": "4.0.0",
+      "kind": "instructions",
+      "license": "CC-BY-SA-4.0",
+      "sha256": "208121787107ee1d3b1ab6f93846e6d41d45b5e94478fb4b030893b688a9a76a",
+      "size_bytes": 28866,
+      "source_sha256": "719daae66b7ea65d036232b6610e2df55be2586ab171ca8b906facefa737ffb2",
+      "instruction_body_sha256": "0ea17cb896ce3fcba7f5d291c3e59f6f171b09ceb76c8f6ddb97ab1e11c1a0ce",
+      "nonfunctional_body_changes": []
+    },
+    {
+      "id": "SRAGI_BELIEFS",
+      "filename": "SRAGI-Beliefs-4.0.0-EN.md",
+      "version": "4.0.0",
+      "kind": "companion_documentation",
+      "license": "LicenseRef-SRAGI-Commercial",
+      "sha256": "fcb4b4ef7e7ac471afc87732a35c0881b73f6a33e576c5071371cc583f971774",
+      "size_bytes": 22558,
+      "source_sha256": "c825c42aa6f3cdfd983c8c9f9db7a2edbf6f3334368102c461ae571e18a72903"
+    },
+    {
+      "id": "SRAGI_LITE",
+      "filename": "SRAGI-Lite-1.0.0-EN.yaml",
+      "version": "1.0.0",
+      "kind": "instructions",
+      "license": "CC-BY-SA-4.0",
+      "sha256": "6c103f34cb7e1850b58dfafa8002617159b8969dd5ea4345d9e5a349ce53f101",
+      "size_bytes": 22284,
+      "source_sha256": "816bf9f364f549bf0f9e45fd7795f27744e98eb092575b57fb494564e5175423",
+      "instruction_body_sha256": "c2bd8f132a49c6c0562a10bb09f4cdd81c22c281c6468466d51aa40c4c4294b5",
+      "nonfunctional_body_changes": []
+    },
+    {
+      "id": "SRAGI_LITE",
+      "filename": "SRAGI-Lite-1.0.0-EN.md",
+      "version": "1.0.0",
+      "kind": "companion_documentation",
+      "license": "LicenseRef-SRAGI-Commercial",
+      "sha256": "ab92d1f499b625f5a6e598e2c278fbbc9bbc12c7937b4d98c78e8fa144ae1c6e",
+      "size_bytes": 15243,
+      "source_sha256": "7eb12eebd9da3d1a1afab599d89841cba0286ad162badb8891b5e2c12e4957c3"
+    },
+    {
+      "id": "SRAGI_ULTRA_LITE",
+      "filename": "SRAGI-Ultra-Lite-1.0.0-EN.yaml",
+      "version": "1.0.0",
+      "kind": "instructions",
+      "license": "CC-BY-SA-4.0",
+      "sha256": "ce58fcc1f6441108c2426592966405e42b752f1d5483f14c0b275d24b2cde44b",
+      "size_bytes": 10174,
+      "source_sha256": "aea3677759d67d23168f747da47e03ee84829358e2ebde5f6f4d19de8583b8c3",
+      "instruction_body_sha256": "99b6d451e4d2de44075ba63bdd97607c5ce983899d24edac66de2fe6cf5e84a2",
+      "nonfunctional_body_changes": [
+        "/SRAGI_ULTRA_LITE/attribution/recommended: release version label only"
+      ]
+    },
+    {
+      "id": "SRAGI_ULTRA_LITE",
+      "filename": "SRAGI-Ultra-Lite-1.0.0-EN.md",
+      "version": "1.0.0",
+      "kind": "companion_documentation",
+      "license": "LicenseRef-SRAGI-Commercial",
+      "sha256": "489de128dae019dcf87e026d0b82a92fb1f1f868ee0edf5fcd0f4edfc81ae9a9",
+      "size_bytes": 8662,
+      "source_sha256": "1020800912fa336daf14f184a310dfe4f10e1fb93f3f3c47951e2f5a94ed72b5"
+    }
+  ]
+}
