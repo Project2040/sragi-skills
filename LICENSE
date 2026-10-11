@@ -4,7 +4,9 @@ Copyright (c) 2026 Neptunia Media AS (org. no. 932 481 375), Norway.
 
 Licensing is decided per file. No licence should be inferred for a file that
 is not covered below. Where this overview and a notice inside a file or a
-release folder differ, the more specific notice takes precedence.
+release folder differ, the more specific notice takes precedence. The
+free-use permission in section 2 is an exception: it applies in addition to
+those notices.
 
 1. The eight YAML instruction files are licensed under CC BY-SA 4.0
    (SPDX: CC-BY-SA-4.0):
@@ -23,14 +25,23 @@ release folder differ, the more specific notice takes precedence.
    file in each release folder is authoritative for that release. Standard
    licence texts keep their own terms.
 
+   Free-use permission: Neptunia Media AS grants everyone a free,
+   non-exclusive, worldwide permission to download, read and use these
+   files, and to share complete, unmodified copies of them free of charge,
+   for example as part of this repository or its ZIP download. The
+   permission does not cover modification, translation, sale, or inclusion
+   in a product or service; these require a separate written agreement with
+   Neptunia Media AS. This permission is given in writing and supplements
+   the notices in each release folder.
+
 3. The 2025 files in archive/2025-12/ keep the licence stated in each file
    (BIOS 2.22 and Core AI-OS 1.0: CC BY-SA 4.0). The archived README
    describes the repository's licensing as of 14 December 2025 and does not
    apply to other files. Rights already granted are not revoked.
 
-4. Other files in this repository (README files, CONTRIBUTING.md, the issue
-   forms, archive/2025-12/README.md): Copyright (c) 2026 Neptunia Media AS.
-   All rights reserved.
+4. Other files in this repository (README files, CONTRIBUTING.md,
+   DISCLAIMER, the issue forms, archive/2025-12/README.md): Copyright (c)
+   2026 Neptunia Media AS. All rights reserved.
 
 Disclaimer of warranty and limitation of liability
 

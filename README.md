@@ -35,7 +35,9 @@ All four profiles carry the release date 1 October 2026.
 
 Ultra Lite, Lite and Beliefs are in [`releases/standalones/2026-10-01`](releases/standalones/2026-10-01/). Each is one `.yaml` file with the instructions, plus a `.md` file that explains them. Core Fullstack is five `.yaml` files in [`releases/core-fullstack/4.2.0`](releases/core-fullstack/4.2.0/). To get everything at once, use **Code → Download ZIP** at the top of this page.
 
-The profiles are written in English, and the AI answers in the language you write in. Each profile stands alone and does not activate the others. The release folders also contain the original release notes, partly in Norwegian.
+Before you use SRAGI, read the [disclaimer](#disclaimer).
+
+The profiles are written in English, and the AI answers in the language you write in. Each profile stands alone and does not activate the others. The release folders also contain the original release notes, partly in Norwegian. They mention an internal archive and plugin that are not part of this repository.
 
 ## Try it in two minutes
 
@@ -84,7 +86,7 @@ On Windows, compare the hash it prints with the text in the `.sha256` file. To c
 ## Licence
 
 - **The eight YAML instruction files** are licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). You may share, adapt and use them commercially if you give attribution, indicate changes and share adaptations under the same licence. Other terms are available by separate written agreement.
-- **The companion documentation and metadata** in `releases/` are proprietary to Neptunia Media AS. Use, copying, modification and distribution of them require a separate written agreement. The `LICENSE` file in each release folder is authoritative.
+- **The companion documentation and metadata** in `releases/` belong to Neptunia Media AS. You may download, read and use them free of charge, and share complete, unchanged copies free of charge, for example as part of this repository or its ZIP download. Changing, translating or selling them, or building them into a product or service, requires a separate written agreement. See [`LICENSE`](LICENSE).
 
 Attribution example: *SRAGI® Ultra Lite 1.0.0, created by Rune Solberg and published by Neptunia Media AS. Licensed under CC BY-SA 4.0. Source: sragi.org*
 
@@ -99,6 +101,8 @@ SRAGI is provided "as is", free of charge and without warranty of any kind. To t
 - **In a crisis, contact people, not AI.** If you or someone else is in danger, contact local emergency services. In Norway, call 113 (medical emergency) or 112 (police).
 - **Your AI service's terms apply.** Your conversations are processed by the AI service you use, under its terms and privacy policy.
 - **No affiliation.** ChatGPT, Claude, Gemini and other product names are trademarks of their owners. SRAGI is not affiliated with or endorsed by them.
+
+The disclaimer is also in [`DISCLAIMER`](DISCLAIMER), in English and Norwegian.
 
 ## Earlier material
 

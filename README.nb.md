@@ -35,7 +35,9 @@ Alle fire profilene har utgivelsesdato 1. oktober 2026.
 
 Ultra Lite, Lite og Beliefs ligger i [`releases/standalones/2026-10-01`](releases/standalones/2026-10-01/). Hver av dem er én `.yaml`-fil med instruksjonene, pluss en `.md`-fil som forklarer dem med enkle ord. Core Fullstack er fem `.yaml`-filer i [`releases/core-fullstack/4.2.0`](releases/core-fullstack/4.2.0/). Vil du ha alt på én gang, velger du **Code → Download ZIP** øverst på siden.
 
-Profilene er skrevet på engelsk, og AI-en svarer på språket du skriver på. Hver profil står på egne ben og aktiverer ikke de andre. Utgivelsesmappene inneholder også de opprinnelige utgivelsesnotatene, delvis på norsk.
+Les [ansvarsfraskrivelsen](#ansvarsfraskrivelse) før du bruker SRAGI.
+
+Profilene er skrevet på engelsk, og AI-en svarer på språket du skriver på. Hver profil står på egne ben og aktiverer ikke de andre. Utgivelsesmappene inneholder også de opprinnelige utgivelsesnotatene, delvis på norsk. De nevner et internt arkiv og en plugin som ikke er en del av dette repoet.
 
 ## Prøv på to minutter
 
@@ -84,7 +86,7 @@ På Windows sammenligner du verdien som skrives ut, med teksten i `.sha256`-file
 ## Lisens
 
 - **De åtte YAML-instruksjonsfilene** er lisensiert under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Du kan dele, endre og bruke dem kommersielt hvis du navngir opphavspersonen, merker endringer og deler bearbeidelser videre under samme lisens. Andre vilkår kan avtales skriftlig.
-- **Følgedokumentasjonen og metadataene** i `releases/` tilhører Neptunia Media AS. Bruk, kopiering, endring og distribusjon av dem krever en egen skriftlig avtale. `LICENSE`-filen i hver utgivelsesmappe er avgjørende.
+- **Følgedokumentasjonen og metadataene** i `releases/` tilhører Neptunia Media AS. Du kan laste dem ned, lese og bruke dem gratis, og dele komplette, uendrede kopier gratis, for eksempel som en del av dette repoet eller ZIP-nedlastingen. Å endre, oversette eller selge dem, eller bygge dem inn i et produkt eller en tjeneste, krever en egen skriftlig avtale. Se [`LICENSE`](LICENSE).
 
 Eksempel på navngivelse: *SRAGI® Ultra Lite 1.0.0, created by Rune Solberg and published by Neptunia Media AS. Licensed under CC BY-SA 4.0. Source: sragi.org*
 
@@ -99,6 +101,8 @@ SRAGI leveres «som det er», gratis og uten noen form for garanti. Så langt lo
 - **I en krise: kontakt mennesker, ikke AI.** Er du eller noen andre i fare, kontakter du nødtjenestene der du er. I Norge ringer du 113 (medisinsk nødhjelp) eller 112 (politi).
 - **Vilkårene til AI-tjenesten gjelder.** Samtalene dine behandles av AI-tjenesten du bruker, etter tjenestens vilkår og personvernerklæring.
 - **Ingen tilknytning.** ChatGPT, Claude, Gemini og andre produktnavn er varemerker som tilhører sine eiere. SRAGI har ingen tilknytning til dem og er ikke godkjent av dem.
+
+Ansvarsfraskrivelsen står også i [`DISCLAIMER`](DISCLAIMER), på engelsk og norsk.
 
 ## Tidligere materiale
 
