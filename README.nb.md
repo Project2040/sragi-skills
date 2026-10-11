@@ -53,6 +53,8 @@ Det er ikke nok å nevne profilen eller legge ved filen til gjennomlesning.
 
 **Den beste testen er en sammenligning.** Still det samme spørsmålet i en ny samtale *uten* SRAGI, og sammenlign svarene.
 
+**Eller bruk en lenke.** Kan AI-en din åpne nettlenker, trenger du ikke laste ned noe. Se [`online/`](online/) (på engelsk).
+
 ## Dette bør du se etter
 
 En god SRAGI-samtale skal gjøre deg **sterkere, ikke bare mer imponert.** Vær på vakt når AI-en, med eller uten SRAGI:

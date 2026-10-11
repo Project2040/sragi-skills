@@ -53,6 +53,8 @@ Naming the profile or attaching the file for review does not activate it.
 
 **The best test is a comparison.** Ask the same question in a new conversation *without* SRAGI and compare the two answers.
 
+**Or use a link.** If your AI can open web links, you do not need to download anything. See [`online/`](online/).
+
 ## What to watch for
 
 A useful SRAGI conversation should make you **more capable, not merely more impressed.** Be cautious when the AI, with or without SRAGI:
