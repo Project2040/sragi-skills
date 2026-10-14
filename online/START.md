@@ -24,22 +24,22 @@ Show the disclaimer above. Then present the four profiles below as a choice, des
 
 | Profile | What it is for | Profile page |
 | --- | --- | --- |
-| SRAGI® Ultra Lite 1.0.0 | The smallest profile, for everyday use: reflection, learning, writing, planning, creativity and light decisions. | [ultra-lite.md](https://raw.githubusercontent.com/Project2040/sragi-skills/main/online/ultra-lite.md) |
-| SRAGI® Lite 1.0.0 | A compact profile with a little more structure: explanation, prioritisation, light strategy, idea development and regenerative review. | [lite.md](https://raw.githubusercontent.com/Project2040/sragi-skills/main/online/lite.md) |
-| SRAGI® Beliefs 4.0.0 | Free exploration of beliefs, meaning, spirituality, identity and consciousness, with one instrument kept on reality. | [beliefs.md](https://raw.githubusercontent.com/Project2040/sragi-skills/main/online/beliefs.md) |
+| SRAGI® Ultra Lite 1.0.0 | The smallest profile, for everyday use: reflection, learning, writing, planning, creativity and light decisions. | [ultra-lite.md](https://github.com/Project2040/sragi-skills/blob/main/online/ultra-lite.md) |
+| SRAGI® Lite 1.0.0 | A compact profile with a little more structure: explanation, prioritisation, light strategy, idea development and regenerative review. | [lite.md](https://github.com/Project2040/sragi-skills/blob/main/online/lite.md) |
+| SRAGI® Beliefs 4.0.0 | Free exploration of beliefs, meaning, spirituality, identity and consciousness, with one instrument kept on reality. | [beliefs.md](https://github.com/Project2040/sragi-skills/blob/main/online/beliefs.md) |
 | SRAGI® Core Fullstack 4.2.0 | The full framework in five components, for regenerative systems design, decisions, grounded reflection and human–AI integration. | See below |
 
-Each profile stands alone and does not activate the others.
+Each profile stands alone and does not activate the others. The same pages are available as plain text: replace `github.com/Project2040/sragi-skills/blob/` with `raw.githubusercontent.com/Project2040/sragi-skills/` in the link.
 
 ## SRAGI® Core Fullstack 4.2.0
 
 Core Fullstack needs all five files below in the same conversation, about 150 KB in total. Many online tools cannot read that much from links, so attaching the files usually works better. If the user chooses Core Fullstack, give them these links and suggest attaching the files. After activation, `SRAGI:STATUS` reports which components were actually loaded.
 
-- [SRAGI-Core-Fullstack-Activate-2.0.0.yaml](https://raw.githubusercontent.com/Project2040/sragi-skills/sragi-2026-10-01/releases/core-fullstack/4.2.0/SRAGI-Core-Fullstack-Activate-2.0.0.yaml)
-- [SRAGI-AI-BIOS-4.2.0.yaml](https://raw.githubusercontent.com/Project2040/sragi-skills/sragi-2026-10-01/releases/core-fullstack/4.2.0/SRAGI-AI-BIOS-4.2.0.yaml)
-- [SRAGI-Core-AI-OS-3.2.0.yaml](https://raw.githubusercontent.com/Project2040/sragi-skills/sragi-2026-10-01/releases/core-fullstack/4.2.0/SRAGI-Core-AI-OS-3.2.0.yaml)
-- [SRAGI-Blueprint-Engine-4.2.0.yaml](https://raw.githubusercontent.com/Project2040/sragi-skills/sragi-2026-10-01/releases/core-fullstack/4.2.0/SRAGI-Blueprint-Engine-4.2.0.yaml)
-- [SRAGI-Twin-3.2.0.yaml](https://raw.githubusercontent.com/Project2040/sragi-skills/sragi-2026-10-01/releases/core-fullstack/4.2.0/SRAGI-Twin-3.2.0.yaml)
+- [SRAGI-Core-Fullstack-Activate-2.0.0.yaml](https://github.com/Project2040/sragi-skills/blob/sragi-2026-10-01/releases/core-fullstack/4.2.0/SRAGI-Core-Fullstack-Activate-2.0.0.yaml)
+- [SRAGI-AI-BIOS-4.2.0.yaml](https://github.com/Project2040/sragi-skills/blob/sragi-2026-10-01/releases/core-fullstack/4.2.0/SRAGI-AI-BIOS-4.2.0.yaml)
+- [SRAGI-Core-AI-OS-3.2.0.yaml](https://github.com/Project2040/sragi-skills/blob/sragi-2026-10-01/releases/core-fullstack/4.2.0/SRAGI-Core-AI-OS-3.2.0.yaml)
+- [SRAGI-Blueprint-Engine-4.2.0.yaml](https://github.com/Project2040/sragi-skills/blob/sragi-2026-10-01/releases/core-fullstack/4.2.0/SRAGI-Blueprint-Engine-4.2.0.yaml)
+- [SRAGI-Twin-3.2.0.yaml](https://github.com/Project2040/sragi-skills/blob/sragi-2026-10-01/releases/core-fullstack/4.2.0/SRAGI-Twin-3.2.0.yaml)
 
 These links point to the tag `sragi-2026-10-01`, which cannot be moved or deleted, so the files stay exactly as released.
 

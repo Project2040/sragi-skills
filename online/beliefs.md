@@ -15,7 +15,7 @@ If someone is in danger, real human help and local emergency services come first
 ## When the user asks to use this profile
 
 1. Read the whole profile text below.
-2. If only part of it or a summary of it is available, say so plainly and do not activate. Give the user the link to [the released file](https://raw.githubusercontent.com/Project2040/sragi-skills/sragi-2026-10-01/releases/standalones/2026-10-01/SRAGI-Beliefs-4.0.0-EN.yaml), so they can open it and attach it or paste its text into the conversation.
+2. If only part of it or a summary of it is available, say so plainly and do not activate. Give the user the link to [the released file](https://github.com/Project2040/sragi-skills/blob/sragi-2026-10-01/releases/standalones/2026-10-01/SRAGI-Beliefs-4.0.0-EN.yaml), so they can open it and attach it or paste its text into the conversation.
 3. Show the disclaimer, then give the activation response that the profile itself specifies. There is no fixed phrase: the user says they want to activate SRAGI Beliefs.
 4. Follow the profile for the rest of the conversation. The platform's safety rules and higher-priority instructions still come first. The profile says so itself.
 5. If the user asks for a check, quote the text of the first `purpose` field in the profile exactly.

@@ -6,21 +6,21 @@
 
 Start a new conversation and send:
 
-> Open https://raw.githubusercontent.com/Project2040/sragi-skills/main/online/START.md and show me the SRAGI profiles.
+> Open https://github.com/Project2040/sragi-skills/blob/main/online/START.md and show me the SRAGI profiles.
 
 The AI shows the disclaimer and a menu of the four profiles. You choose, and the AI opens the page for the profile you chose. If it cannot open that page itself, it gives you the link. Send the link back to it in the conversation.
 
 **Already know which profile you want?** Send its page directly, for example:
 
-> Open https://raw.githubusercontent.com/Project2040/sragi-skills/main/online/lite.md and activate SRAGI Lite.
+> Open https://github.com/Project2040/sragi-skills/blob/main/online/lite.md and activate SRAGI Lite.
 
 | Profile | Page |
 | --- | --- |
-| SRAGI® Ultra Lite | `https://raw.githubusercontent.com/Project2040/sragi-skills/main/online/ultra-lite.md` |
-| SRAGI® Lite | `https://raw.githubusercontent.com/Project2040/sragi-skills/main/online/lite.md` |
-| SRAGI® Beliefs | `https://raw.githubusercontent.com/Project2040/sragi-skills/main/online/beliefs.md` |
+| SRAGI® Ultra Lite | `https://github.com/Project2040/sragi-skills/blob/main/online/ultra-lite.md` |
+| SRAGI® Lite | `https://github.com/Project2040/sragi-skills/blob/main/online/lite.md` |
+| SRAGI® Beliefs | `https://github.com/Project2040/sragi-skills/blob/main/online/beliefs.md` |
 
-Each page holds the whole profile, so the AI only needs that one link. Core Fullstack is five large files and works best attached. See [START](START.md).
+Each page holds the whole profile, so the AI only needs that one link. Some AIs read these `github.com` links but not the plain-text `raw.githubusercontent.com` versions, so use the links as shown. Core Fullstack is five large files and works best attached. See [START](START.md).
 
 ## Check that it really loaded
 
