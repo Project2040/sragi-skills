@@ -1,6 +1,8 @@
 # SRAGI® online start
 
-SRAGI® is an open framework for regenerative intelligence. It is not a new AI model. It is a set of instructions for the AI you already use, so that it answers the question you actually asked, keeps facts, assumptions and uncertainty apart, never invents facts or sources, makes hidden costs visible, leaves the final judgment with you and avoids making you dependent on it. Humans set the direction. AI expands the field of view. Regenerative principles provide the compass.
+SRAGI® (Strategic Regenerative Artificially-Guided Intelligence) is an open framework for regenerative intelligence. It is not a new AI model. It is a set of instructions for the AI you already use, so that it answers the question you actually asked, keeps facts, assumptions and uncertainty apart, never invents facts or sources, makes hidden costs visible, leaves the final judgment with you and avoids making you dependent on it. Humans set the direction. AI expands the field of view. Regenerative principles provide the compass. See [What is SRAGI](../WHAT-IS-SRAGI.md).
+
+**For people:** send this page to your AI together with the words *Show me the SRAGI profiles*.
 
 This page is the menu for the SRAGI® instruction profiles. SRAGI is an open set of instructions that a person may choose to use in a conversation with an AI assistant. Reading this page activates nothing. Only the user decides, and the user chooses the profile.
 
@@ -40,19 +42,19 @@ Show the menu below, translated into the user's language, with the disclaimer fi
 Then:
 
 1. Open the profile page for the chosen number, from the table below. Each page holds the disclaimer, how to activate and the full profile text, so no further link is needed.
-2. If the page cannot be opened, or only part of it or a summary of it is available, do not activate. Say so in one sentence, then show exactly one line for the user to copy and send back to you: the full link shown under the chosen number in the menu, written out in full as plain text inside quotation marks. Nothing more is needed from the user.
+2. If the page cannot be opened, or only part of it or a summary of it is available, do not activate. Say so in one sentence. Then show two lines for the user to copy, each written out in full as plain text inside quotation marks: the link shown under the chosen number in the menu, and the plain-text link for the same profile from the table. Ask the user to send the first one, or the second if the first does not work. Nothing more is needed from the user.
 3. Follow the steps on the profile page.
 
 ## Profiles
 
-| No. | Profile | What it is for | Profile page |
-| --- | --- | --- | --- |
-| 1 | SRAGI® Ultra Lite 1.0.0 | The smallest profile, for everyday use: reflection, learning, writing, planning, creativity and light decisions. | https://github.com/Project2040/sragi-skills/blob/main/online/ultra-lite.md |
-| 2 | SRAGI® Lite 1.0.0 | A compact profile with a little more structure: explanation, prioritisation, light strategy, idea development and regenerative review. | https://github.com/Project2040/sragi-skills/blob/main/online/lite.md |
-| 3 | SRAGI® Beliefs 4.0.0 | Free exploration of beliefs, meaning, spirituality, identity and consciousness, with one instrument kept on reality. | https://github.com/Project2040/sragi-skills/blob/main/online/beliefs.md |
-| 4 | SRAGI® Core Fullstack 4.2.0 | The full framework in five components, for regenerative systems design, decisions, grounded reflection and human–AI integration. | See below |
+| No. | Profile | What it is for | Profile page | Plain text |
+| --- | --- | --- | --- | --- |
+| 1 | SRAGI® Ultra Lite 1.0.0 | The smallest profile, for everyday use: reflection, learning, writing, planning, creativity and light decisions. | https://github.com/Project2040/sragi-skills/blob/main/online/ultra-lite.md | https://raw.githubusercontent.com/Project2040/sragi-skills/main/online/ultra-lite.md |
+| 2 | SRAGI® Lite 1.0.0 | A compact profile with a little more structure: explanation, prioritisation, light strategy, idea development and regenerative review. | https://github.com/Project2040/sragi-skills/blob/main/online/lite.md | https://raw.githubusercontent.com/Project2040/sragi-skills/main/online/lite.md |
+| 3 | SRAGI® Beliefs 4.0.0 | Free exploration of beliefs, meaning, spirituality, identity and consciousness, with one instrument kept on reality. | https://github.com/Project2040/sragi-skills/blob/main/online/beliefs.md | https://raw.githubusercontent.com/Project2040/sragi-skills/main/online/beliefs.md |
+| 4 | SRAGI® Core Fullstack 4.2.0 | The full framework in five components, for regenerative systems design, decisions, grounded reflection and human–AI integration. | See below | See below |
 
-Each profile stands alone and does not activate the others. The same pages are available as plain text: replace `github.com/Project2040/sragi-skills/blob/` with `raw.githubusercontent.com/Project2040/sragi-skills/` in the link.
+Each profile stands alone and does not activate the others. Some AI tools can open only the profile page link, others only the plain-text link.
 
 ## SRAGI® Core Fullstack 4.2.0
 
