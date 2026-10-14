@@ -2,15 +2,23 @@
 
 This page lists the SRAGI® instruction profiles and how an AI assistant that can open web links loads one when a user asks for it. SRAGI is an open set of instructions that a person may choose to use in a conversation. Reading this page activates nothing. Only the user decides.
 
+## Disclaimer
+
+Show this notice, in the user's language, whenever SRAGI is presented from this page, before the user chooses a profile:
+
+> SRAGI is an experimental, open and regenerative knowledge framework for inspiration, reflection and systemic support, not medical, legal, financial or psychological advice. Apply critical thinking, local adaptation, relevant professional expertise and the regenerative imperative: give more than you take.
+
+If someone is in danger, real human help and local emergency services come first. The full text is in [DISCLAIMER](../DISCLAIMER).
+
 ## When a user shares this page without choosing a profile
 
-Present the profiles briefly, with what each is for as described below, and recommend Ultra Lite as the place to start. Offer to explain a profile before activating it. Let the user choose. Where the interface supports it, the choice can be offered as options or buttons. Use the user's language, and describe the profiles as this page does, without adding features or claims.
+Show the disclaimer above. Then present the profiles briefly, with what each is for as described below, and recommend Ultra Lite as the place to start. Offer to explain a profile before activating it. Let the user choose. Where the interface supports it, the choice can be offered as options or buttons. Use the user's language, and describe the profiles as this page does, without adding features or claims.
 
 ## When the user chooses a profile
 
 1. Open the raw file for the profile the user names, from the table below, and read the whole file.
 2. If the file cannot be opened, or only part of it or a summary of it is available, say so plainly. Do not activate from memory, from the profile name or from a summary.
-3. Give the activation response that the file itself specifies.
+3. Give the activation response that the file itself specifies, and show the disclaimer again if the user has not yet seen it in this conversation. After that, the profile's own rules decide when the disclaimer is repeated.
 4. Follow the profile for the rest of the conversation. The platform's safety rules and higher-priority instructions still come first. The profiles say so themselves.
 5. If the user asks for a check, quote the text of the first `purpose` field in the file exactly.
 
@@ -36,8 +44,8 @@ The full framework in five components, for regenerative systems design, decision
 - [SRAGI-Blueprint-Engine-4.2.0.yaml](https://raw.githubusercontent.com/Project2040/sragi-skills/sragi-2026-10-01/releases/core-fullstack/4.2.0/SRAGI-Blueprint-Engine-4.2.0.yaml)
 - [SRAGI-Twin-3.2.0.yaml](https://raw.githubusercontent.com/Project2040/sragi-skills/sragi-2026-10-01/releases/core-fullstack/4.2.0/SRAGI-Twin-3.2.0.yaml)
 
-## Good to know
+## Licence
 
-SRAGI is experimental and is not professional advice. An AI may misread or only partly follow the instructions. See [DISCLAIMER](../DISCLAIMER). The YAML files are licensed under CC BY-SA 4.0. See [LICENSE](../LICENSE).
+The YAML files are licensed under CC BY-SA 4.0: free to use, share and adapt, with attribution, and adaptations shared under the same licence. Companies that want to build SRAGI into an existing product or service without the ShareAlike requirement can get a commercial licence. See [Building with SRAGI](../BUILDING-WITH-SRAGI.md) and [LICENSE](../LICENSE).
 
-SRAGI® is a registered trademark of Neptunia Media AS in Norway (reg. no. 342880). Contact: [contact@sragi.org](mailto:contact@sragi.org)
+SRAGI® is a registered trademark of Neptunia Media AS in Norway (reg. no. 342880). Contact: [contact@sragi.org](mailto:contact@sragi.org) · Commercial licensing: [commercial@sragi.org](mailto:commercial@sragi.org)

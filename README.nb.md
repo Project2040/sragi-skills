@@ -87,7 +87,7 @@ På Windows sammenligner du verdien som skrives ut, med teksten i `.sha256`-file
 
 ## Lisens
 
-- **De åtte YAML-instruksjonsfilene** er lisensiert under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Du kan dele, endre og bruke dem kommersielt hvis du navngir opphavspersonen, merker endringer og deler bearbeidelser videre under samme lisens. Andre vilkår kan avtales skriftlig.
+- **De åtte YAML-instruksjonsfilene** er lisensiert under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Du kan dele, endre og bruke dem kommersielt hvis du navngir opphavspersonen, merker endringer og deler bearbeidelser videre under samme lisens. Andre vilkår kan avtales skriftlig. Vil du bygge SRAGI inn i et produkt eller en tjeneste, se [Building with SRAGI](BUILDING-WITH-SRAGI.md) (på engelsk).
 - **Følgedokumentasjonen og metadataene** i `releases/` tilhører Neptunia Media AS. Du kan laste dem ned, lese og bruke dem gratis, og dele komplette, uendrede kopier gratis, for eksempel som en del av dette repoet eller ZIP-nedlastingen. Å endre, oversette eller selge dem, eller bygge dem inn i et produkt eller en tjeneste, krever en egen skriftlig avtale. Se [`LICENSE`](LICENSE).
 
 Eksempel på navngivelse: *SRAGI® Ultra Lite 1.0.0, created by Rune Solberg and published by Neptunia Media AS. Licensed under CC BY-SA 4.0. Source: sragi.org*

@@ -57,6 +57,6 @@ Yes. The instruction files are licensed under CC BY-SA 4.0. See [LICENSE](../LIC
 
 ## Good to know
 
-SRAGI is experimental and is not professional advice. See [DISCLAIMER](../DISCLAIMER). ChatGPT, Claude and Gemini are trademarks of their owners, and SRAGI is not affiliated with them. SRAGI® is a registered trademark of Neptunia Media AS in Norway (reg. no. 342880).
+SRAGI is experimental and is not professional advice. See [DISCLAIMER](../DISCLAIMER). Building SRAGI into your own product? See [Building with SRAGI](../BUILDING-WITH-SRAGI.md). ChatGPT, Claude and Gemini are trademarks of their owners, and SRAGI is not affiliated with them. SRAGI® is a registered trademark of Neptunia Media AS in Norway (reg. no. 342880).
 
 [Instructions for AI assistants](START.md) · [contact@sragi.org](mailto:contact@sragi.org)

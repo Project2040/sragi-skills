@@ -87,7 +87,7 @@ On Windows, compare the hash it prints with the text in the `.sha256` file. To c
 
 ## Licence
 
-- **The eight YAML instruction files** are licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). You may share, adapt and use them commercially if you give attribution, indicate changes and share adaptations under the same licence. Other terms are available by separate written agreement.
+- **The eight YAML instruction files** are licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). You may share, adapt and use them commercially if you give attribution, indicate changes and share adaptations under the same licence. Other terms are available by separate written agreement. Building SRAGI into a product or service? See [Building with SRAGI](BUILDING-WITH-SRAGI.md).
 - **The companion documentation and metadata** in `releases/` belong to Neptunia Media AS. You may download, read and use them free of charge, and share complete, unchanged copies free of charge, for example as part of this repository or its ZIP download. Changing, translating or selling them, or building them into a product or service, requires a separate written agreement. See [`LICENSE`](LICENSE).
 
 Attribution example: *SRAGI® Ultra Lite 1.0.0, created by Rune Solberg and published by Neptunia Media AS. Licensed under CC BY-SA 4.0. Source: sragi.org*
