@@ -46,14 +46,9 @@ Much of what the economic story overlooks belongs at level 2, not level 4. Commu
 - Write instructions meant to make AI systems act without the user's own choice.
 - Make people dependent on it.
 
-## Where the evidence is
+## Evidence and lived experience
 
-The [ref](ref/) folder holds what SRAGI's position rests on, in two parts that are kept apart:
-
-- [ref/evidence](ref/evidence/): documented cases, one per file, each with primary sources, what the case shows and what it does not show.
-- [ref/experience](ref/experience/): lived experience, clearly marked as one person's account, shared only with that person's consent. It is knowledge of its own kind, and it never stands in for evidence.
-
-The rules for both are in [ref/README.md](ref/README.md).
+When SRAGI shows a gap, it does so with sources, and it says what a case does not show. Lived experience is knowledge of its own kind. It is always marked as one person's account, shared with their consent, and it never stands in for evidence.
 
 ## Good to know
 
