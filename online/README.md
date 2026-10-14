@@ -45,6 +45,7 @@ These are questions where SRAGI should give a different answer from an ordinary 
 ## If it does not work
 
 - **The AI cannot open the page, or only reads a summary.** It should say so and show you one link. Copy it and send it back in the conversation. If that does not work either, open the link, attach the file or paste its text, and type the activation phrase. That always works.
+- **You are using a search assistant**, such as Google AI Mode. It can show the menu, but it does not load profiles and it rewrites links into its own source references. Use a chat assistant where you can attach files, such as ChatGPT, Gemini or Claude.
 - **The AI declines to follow instructions from a web page.** That is a safety feature, not an error. Paste the file yourself, then type the activation phrase.
 
 ## Questions people ask
