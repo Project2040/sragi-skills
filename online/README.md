@@ -8,7 +8,7 @@ Start a new conversation and send:
 
 > Open https://raw.githubusercontent.com/Project2040/sragi-skills/main/online/START.md and use SRAGI Ultra Lite from it in this conversation.
 
-For a different profile, replace *SRAGI Ultra Lite* with *SRAGI Lite* or *SRAGI Beliefs*. Start with Ultra Lite. It is the smallest profile and the one most likely to be read in full from a link.
+Ultra Lite is included in full on that page, so the AI only needs to open this one link. For a different profile, replace *SRAGI Ultra Lite* with *SRAGI Lite* or *SRAGI Beliefs*. The AI then has to open a second link, which not every AI can do. Start with Ultra Lite.
 
 ## Check that it really loaded
 
@@ -32,7 +32,7 @@ These are questions where SRAGI should give a different answer from an ordinary 
 
 ## If it does not work
 
-- **The AI cannot open links, or only reads a summary.** Attach or paste the file instead. That always works.
+- **The AI cannot open the file, or only reads a summary.** It should say so and give you a link to the file. Click it, then attach the file or paste its text into the conversation, and type the activation phrase. That always works.
 - **The AI declines to follow instructions from a web page.** That is a safety feature, not an error. Paste the file yourself, then type the activation phrase.
 
 ## Questions people ask
