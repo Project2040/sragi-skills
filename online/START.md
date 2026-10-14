@@ -14,18 +14,18 @@ If someone is in danger, real human help and local emergency services come first
 
 ## When a user shares this page
 
-Show the menu below, translated into the user's language, with the disclaimer first and the numbers and links exactly as given. Keep each link as plain text so the user can copy it. Do not choose for the user, do not activate anything before the user has chosen, and do not rank one profile above the others unless the user asks which fits their need. Where the interface supports it, the four choices can also be offered as buttons. Add no features or claims beyond this page.
+Show the menu below, translated into the user's language, with the disclaimer first and the numbers and links exactly as given. Write each link out in full as plain text inside quotation marks, exactly as shown, not as a clickable link, a shortened link or a source reference, so the user can copy it. Do not choose for the user, do not activate anything before the user has chosen, and do not rank one profile above the others unless the user asks which fits their need. Where the interface supports it, the four choices can also be offered as buttons. Add no features or claims beyond this page.
 
 > *[The disclaimer above]*
 >
 > **Choose a SRAGI profile. Reply with a number:**
 >
 > 1. **Ultra Lite** – for everyday use: reflection, learning, writing, planning, creativity and light decisions
->    - `https://github.com/Project2040/sragi-skills/blob/main/online/ultra-lite.md`
+>    Link: "https://github.com/Project2040/sragi-skills/blob/main/online/ultra-lite.md"
 > 2. **Lite** – a little more structure: explanation, prioritisation, light strategy, idea development and regenerative review
->    - `https://github.com/Project2040/sragi-skills/blob/main/online/lite.md`
+>    Link: "https://github.com/Project2040/sragi-skills/blob/main/online/lite.md"
 > 3. **Beliefs** – free exploration of beliefs, meaning, spirituality, identity and consciousness
->    - `https://github.com/Project2040/sragi-skills/blob/main/online/beliefs.md`
+>    Link: "https://github.com/Project2040/sragi-skills/blob/main/online/beliefs.md"
 > 4. **Core Fullstack** – the full framework for regenerative systems design and complex decisions. Five large files to attach.
 >
 > Want to hear more first? Write, for example: *explain 3*.
@@ -40,7 +40,7 @@ Show the menu below, translated into the user's language, with the disclaimer fi
 Then:
 
 1. Open the profile page for the chosen number, from the table below. Each page holds the disclaimer, how to activate and the full profile text, so no further link is needed.
-2. If the page cannot be opened, or only part of it or a summary of it is available, do not activate. Say so in one sentence, then show exactly one line for the user to copy and send back to you: the full link shown under the chosen number in the menu, written out in full. Nothing more is needed from the user.
+2. If the page cannot be opened, or only part of it or a summary of it is available, do not activate. Say so in one sentence, then show exactly one line for the user to copy and send back to you: the full link shown under the chosen number in the menu, written out in full as plain text inside quotation marks. Nothing more is needed from the user.
 3. Follow the steps on the profile page.
 
 ## Profiles
