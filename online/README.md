@@ -8,7 +8,7 @@ Start a new conversation and send:
 
 > Open https://github.com/Project2040/sragi-skills/blob/main/online/START.md and show me the SRAGI profiles.
 
-The AI shows the disclaimer and a menu of the four profiles. You choose, and the AI opens the page for the profile you chose. If it cannot open that page itself, it gives you the link. Send the link back to it in the conversation.
+The AI shows the disclaimer and a numbered menu. **Reply with 1, 2, 3 or 4.** The AI opens the page for that profile and activates it. If it cannot open the page itself, it shows you one link. Copy that link and send it back. That is all.
 
 **Already know which profile you want?** Send its page directly, for example:
 
@@ -44,7 +44,7 @@ These are questions where SRAGI should give a different answer from an ordinary 
 
 ## If it does not work
 
-- **The AI cannot open the page, or only reads a summary.** It should say so and give you the link. Send the link back to it in the conversation. If that does not work either, open the link, attach the file or paste its text, and type the activation phrase. That always works.
+- **The AI cannot open the page, or only reads a summary.** It should say so and show you one link. Copy it and send it back in the conversation. If that does not work either, open the link, attach the file or paste its text, and type the activation phrase. That always works.
 - **The AI declines to follow instructions from a web page.** That is a safety feature, not an error. Paste the file yourself, then type the activation phrase.
 
 ## Questions people ask

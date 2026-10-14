@@ -12,7 +12,10 @@ Show this notice, in the user's language, before activating the profile, unless 
 
 If someone is in danger, real human help and local emergency services come first. The full text is in [DISCLAIMER](../DISCLAIMER).
 
-## When the user asks to use this profile
+## When the user chooses this profile
+
+The user chooses it by its number in the [START](START.md) menu, by its name, or by sending the link to this page. Any of these means the user wants it activated.
+
 
 1. Read the whole profile text below.
 2. If only part of it or a summary of it is available, say so plainly and do not activate. Give the user the link to [the released file](https://github.com/Project2040/sragi-skills/blob/sragi-2026-10-01/releases/standalones/2026-10-01/SRAGI-Beliefs-4.0.0-EN.yaml), so they can open it and attach it or paste its text into the conversation.
