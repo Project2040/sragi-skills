@@ -20,6 +20,10 @@ those notices.
    Alternative commercial terms are available only by separate written
    agreement with Neptunia Media AS.
 
+   The exact copies of the Ultra Lite, Lite and Beliefs profiles inside
+   online/ultra-lite.md, online/lite.md and online/beliefs.md (the text
+   under "Profile text") are under the same licence.
+
 2. All other files in releases/ (companion documentation, README, LICENSE,
    metadata and checksums) are proprietary to Neptunia Media AS. The LICENSE
    file in each release folder is authoritative for that release. Standard
@@ -40,9 +44,10 @@ those notices.
    apply to other files. Rights already granted are not revoked.
 
 4. Other files in this repository (README files, CONTRIBUTING.md,
-   DISCLAIMER, BUILDING-WITH-SRAGI.md, the files in online/, the issue
-   forms, archive/2025-12/README.md): Copyright (c) 2026 Neptunia Media AS.
-   All rights reserved.
+   DISCLAIMER, BUILDING-WITH-SRAGI.md, the files in online/ apart from the
+   profile copies named in section 1, the issue forms,
+   archive/2025-12/README.md): Copyright (c) 2026 Neptunia Media AS. All
+   rights reserved.
 
 Disclaimer of warranty and limitation of liability
 

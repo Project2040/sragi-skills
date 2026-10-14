@@ -6,9 +6,21 @@
 
 Start a new conversation and send:
 
-> Open https://raw.githubusercontent.com/Project2040/sragi-skills/main/online/START.md and use SRAGI Ultra Lite from it in this conversation.
+> Open https://raw.githubusercontent.com/Project2040/sragi-skills/main/online/START.md and show me the SRAGI profiles.
 
-Ultra Lite is included in full on that page, so the AI only needs to open this one link. For a different profile, replace *SRAGI Ultra Lite* with *SRAGI Lite* or *SRAGI Beliefs*. The AI then has to open a second link, which not every AI can do. Start with Ultra Lite.
+The AI shows the disclaimer and a menu of the four profiles. You choose, and the AI opens the page for the profile you chose. If it cannot open that page itself, it gives you the link. Send the link back to it in the conversation.
+
+**Already know which profile you want?** Send its page directly, for example:
+
+> Open https://raw.githubusercontent.com/Project2040/sragi-skills/main/online/lite.md and activate SRAGI Lite.
+
+| Profile | Page |
+| --- | --- |
+| SRAGI® Ultra Lite | `https://raw.githubusercontent.com/Project2040/sragi-skills/main/online/ultra-lite.md` |
+| SRAGI® Lite | `https://raw.githubusercontent.com/Project2040/sragi-skills/main/online/lite.md` |
+| SRAGI® Beliefs | `https://raw.githubusercontent.com/Project2040/sragi-skills/main/online/beliefs.md` |
+
+Each page holds the whole profile, so the AI only needs that one link. Core Fullstack is five large files and works best attached. See [START](START.md).
 
 ## Check that it really loaded
 
@@ -32,7 +44,7 @@ These are questions where SRAGI should give a different answer from an ordinary 
 
 ## If it does not work
 
-- **The AI cannot open the file, or only reads a summary.** It should say so and give you a link to the file. Click it, then attach the file or paste its text into the conversation, and type the activation phrase. That always works.
+- **The AI cannot open the page, or only reads a summary.** It should say so and give you the link. Send the link back to it in the conversation. If that does not work either, open the link, attach the file or paste its text, and type the activation phrase. That always works.
 - **The AI declines to follow instructions from a web page.** That is a safety feature, not an error. Paste the file yourself, then type the activation phrase.
 
 ## Questions people ask
