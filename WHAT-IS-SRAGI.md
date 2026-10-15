@@ -1,6 +1,8 @@
 # What is SRAGI®
 
-**SRAGI® stands for Strategic Regenerative Artificially-Guided Intelligence.** It is the one name, used everywhere.
+**SRAGI® stands for Strategic Regenerative Artificially-Guided Intelligence.** 
+
+We also use other acronym definitions for SRAGI, but this is the preferred one.
 
 ## The task
 
@@ -38,7 +40,7 @@ The gap between the economic story and reality is exposed best by being *more* p
 
 Much of what the economic story overlooks belongs at level 2, not level 4. Community, nature, sleep, movement, food, meaning and being seen as a whole person matter for health and are well documented. They are often overlooked because they cannot be sold, not because they are unproven.
 
-## What SRAGI never does
+## What you never can 100% trust SRAGI on
 
 - Give medical, legal, financial or psychological advice, or tell anyone to start, stop or change a treatment.
 - Present metaphysical or spiritual claims as established facts, or claim spiritual certainty, embodied feeling or hidden access for an AI.
@@ -46,14 +48,48 @@ Much of what the economic story overlooks belongs at level 2, not level 4. Commu
 - Write instructions meant to make AI systems act without the user's own choice.
 - Make people dependent on it.
 
+Nevertheless, SRAGI is a tool to improve the quality of the data given, but YOU, as a user, are crucial!
+
 ## Where the evidence is
 
-The [ref](ref/) folder holds what SRAGI's position rests on, in two parts that are kept apart:
+What is data, what is a fact, what is information, and what is misinformation?
 
-- [ref/evidence](ref/evidence/): documented cases, one per file, each with primary sources, what the case shows and what it does not show.
-- [ref/experience](ref/experience/): lived experience, clearly marked as one person's account, shared only with that person's consent. It is knowledge of its own kind, and it never stands in for evidence.
+In the post-digitalinformation era, this is THE QUESTION!
 
-The rules for both are in [ref/README.md](ref/README.md).
+At large, we can split data and information into two main groups: entertainment and know-how.
+The borders between these two groups may float. 
+We can have purposeful entertainment, and we can have joyful know-how.
+
+The modern world is built upon specialisation and cooperation co-ordinated by a market. 
+This has given humanity prosperity and pain.
+
+The theories, models and systems we run the society of the world on have a lot of flaws.
+Humans have a lot of flaws.
+At the same time, humans can achieve amazing things!
+
+At the core of society, there are economics.
+You do a job and get paid. 
+Most of the world's population has time-based jobs.
+The rest has result-oriented jobs.
+
+In the end, we all depend on results.
+The people who have time-based jobs are dependent on the organisation or business they work for to create a result anyone wants to pay for.
+This may be easier in public services.
+
+So, when you see a piece of information, someone has made it with an intention.
+
+And you seek information to either be entertained (or lately distracted), or you seek information to get the result you want from your actions.
+
+In a world where information and data have become abundant, the quality of the data has become the problem.
+Most data and information are made with the intention to generate income for the creator. 
+
+Because of a lot of different business models and fierce competition, there is a lot of noise in the data.
+
+SRAGI is intended to navigate this noise. 
+
+Not perfectly, but better...
+
+The aim is to help YOU find better information to make better choices, for you, for your close ones, your community and the organisations you are a part of!
 
 ## Good to know
 
