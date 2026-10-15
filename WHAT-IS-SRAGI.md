@@ -1,5 +1,7 @@
 # What is SRAGI®
 
+[Norsk versjon](WHAT-IS-SRAGI.nb.md)
+
 **SRAGI® is intended to be a token in the AI sense: one word that carries a whole way of thinking. It is not a cryptocurrency.**
 
 Because language models work with tokens, SRAGI was conceived as a symbolic token for regenerative thinking, with the playful ambition of **“one token to rule them all!”**
