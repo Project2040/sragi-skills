@@ -2,7 +2,7 @@
 
 **Open instruction files that give the AI you already use a regenerative direction.**
 
-SRAGI® stands for Strategic Regenerative Artificially-Guided Intelligence. See [What is SRAGI](WHAT-IS-SRAGI.md) for what it is, how it takes a position and what it never does.
+SRAGI® stands for Systemic Regenerative Artificially Guided Insight. See [What is SRAGI](WHAT-IS-SRAGI.md) for what it is, how it takes a position and what it never does.
 
 [Norsk versjon](README.nb.md)
 

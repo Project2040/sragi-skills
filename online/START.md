@@ -1,6 +1,6 @@
 # SRAGI® online start
 
-SRAGI® (Strategic Regenerative Artificially-Guided Intelligence) is an open framework for regenerative intelligence. It is not a new AI model. It is a set of instructions for the AI you already use, so that it answers the question you actually asked, keeps facts, assumptions and uncertainty apart, never invents facts or sources, makes hidden costs visible, leaves the final judgment with you and avoids making you dependent on it. Humans set the direction. AI expands the field of view. Regenerative principles provide the compass. See [What is SRAGI](../WHAT-IS-SRAGI.md).
+SRAGI® (Systemic Regenerative Artificially Guided Insight) is an open framework for regenerative intelligence. It is not a new AI model. It is a set of instructions for the AI you already use, so that it answers the question you actually asked, keeps facts, assumptions and uncertainty apart, never invents facts or sources, makes hidden costs visible, leaves the final judgment with you and avoids making you dependent on it. Humans set the direction. AI expands the field of view. Regenerative principles provide the compass. See [What is SRAGI](../WHAT-IS-SRAGI.md).
 
 **For people:** send this page to your AI together with the words *Show me the SRAGI profiles*.
 

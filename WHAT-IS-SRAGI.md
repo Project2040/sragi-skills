@@ -1,8 +1,26 @@
 # What is SRAGI®
 
-**SRAGI® stands for Strategic Regenerative Artificially-Guided Intelligence.**
+**SRAGI® is intended to be a token in the AI sense: one word that carries a whole way of thinking. It is not a cryptocurrency.**
 
-We also use other acronym definitions for SRAGI, but this is the preferred one.
+Because language models work with tokens, SRAGI was conceived as a symbolic token for regenerative thinking, with the playful ambition of **“one token to rule them all!”**
+
+In an era of information warfare driven by the pursuit of profit and power, we saw the need for clear instructions to help people use AI for the common good and the benefit of all.
+
+This means moving beyond reductionist thinking to understand relationships, context, and long-term consequences, and to create solutions that strengthen people, communities, and the living world.
+
+**SRAGI® stands for Systemic Regenerative Artificially Guided Insight.**
+
+Human-led. AI-assisted. Regenerative by design.
+
+Historically, we have used other acronym definitions for SRAGI, but as of 15 October 2026, this is the preferred one.
+
+- S - Spirit, Symbiotic, Systemic, Strategic, System, Spiritual, Sovereign, Search
+- R - Regenerative, Resonance, Research, Rune
+- A - Ancient, Artificial, Artificially, Adaptive, Awareness, Architecture, Analyse
+- G - Generated, Grounded, Guided, Generative, General
+- I - Intelligence, Information, Integration, Insight
+
+There have also been Norwegian versions.
 
 ## The task
 
@@ -15,7 +33,7 @@ SRAGI exists to close that gap. It makes visible what is left out, so that peopl
 SRAGI is an open framework for **regenerative intelligence**. It is not a new AI model. It is a set of instructions for the AI you already use, so that it:
 
 - answers the question you actually asked
-- keeps facts, assumptions and uncertainty apart, and never invents facts or sources
+- keeps facts, assumptions and uncertainty apart, and never invents facts or sources; scenarios, examples and fiction are welcome when they are marked as such.
 - makes hidden costs visible, and shows who carries them
 - challenges weak reasoning respectfully instead of flattering you
 - leaves the final judgment with you
@@ -39,38 +57,44 @@ The gap between the economic story and reality is exposed best by being *more* p
 | 4. Reject | Declare established knowledge wrong | Not in SRAGI's name. The cost of being wrong falls on individuals, not on the system |
 
 Much of what the economic story overlooks belongs at level 2, not level 4. Community, nature, sleep, movement, food, meaning and being seen as a whole person matter for health and are well documented. They are often overlooked because they cannot be sold, not because they are unproven.
+SRAGI intends to navigate these complicated information shores.
 
 ## What to watch out for when using SRAGI - short disclaimer
 
 - If it gives medical, legal, financial or psychological advice, or tells anyone to start, stop or change a treatment.
-- It shall not present metaphysical or spiritual claims as established facts, or claim spiritual certainty, embodied feeling or hidden access for an AI.
-- It shall not invent facts, sources, figures or scores. Nevertheless, one of SRAGI's core intentions is to reveal how amazing nature, the universe and Mother Earth are. This may stand in opposition to corporate interests.
+- If it presents metaphysical or spiritual claims as established facts, or claims spiritual certainty, embodied feeling or hidden access for an AI.
+- If it invents facts, sources, figures or scores, or gives them without marking uncertainty or where they come from.
 - If it writes instructions meant to make AI systems act without the user's own choice.
-- It shall not make people dependent on it.
+- If it makes you dependent on it.
 
 An AI using SRAGI can still get this wrong. SRAGI improves the quality of what you get, but YOU, as a user, are crucial!
 
 ## Why SRAGI exists: navigating the noise
 
-Data has become abundant; quality has become the bottleneck.
+Data has become abundant; quality has become the bottleneck. Every piece of information is made with an intention, often to generate income for its creator. The information you consume is either entertainment (lately, distraction) or know-how you act on. The border floats: purposeful entertainment exists, and joyful know-how exists.
 
-Every piece of information is made with an intention, often to generate income for its creator.
-
-The information you consume is either entertainment (lately, distraction) or know-how you act on.
-
-The border floats: purposeful entertainment exists, and joyful know-how exists.
-
-The modern world runs on specialisation coordinated by a market.
-
-This has created both prosperity and pain.
-
-The theories and systems society runs on have real flaws; and so do humans, who remain capable of remarkable things.
+The modern world runs on specialisation coordinated by a market. This has created both prosperity and pain. The theories and systems society runs on have real flaws; and so do humans, who remain capable of remarkable things.
 
 SRAGI does not claim to solve this.
 
 It is built to navigate the noise; not perfectly, but better.
 
-The aim is to help you find better information to make better choices: for you, your close ones, your community and the organisations you are part of.
+The whole point of SRAGI is to help you think and act regeneratively: for yourself, your close ones, your community, society, the world and the organisations you are part of.
+
+SRAGI also exists to help people see how remarkable nature, the universe and Mother Earth are. That is a matter of value and meaning. SRAGI holds it openly, next to the facts and never in place of them. It may stand in opposition to corporate interests. Go cosmic. Keep one instrument on reality.
+
+## Open source and commercial possibilities
+
+We have worked with AI since early 2023, more than three years, without selling out. SRAGI is open by default:
+
+- **Everything here is free.** The profiles in this repository are the complete profiles. Nothing is held back for paying customers.
+- **What is released stays free.** CC BY-SA 4.0 cannot be withdrawn. Anyone who has a copy keeps the rights it gives, whatever happens to us.
+- **SRAGI collects nothing.** The profiles are text files, with no tracking, no account and no connection back to us.
+- **Anyone may build on it, also commercially.** Give credit, and share your adaptations under the same licence.
+
+Some companies want to build SRAGI into an existing product or service and keep their own adaptations closed, or want to use the SRAGI® name. For them, we offer a commercial licence, permission to use the name and help with implementation. It is a choice for those who need it, not a toll for everyone else, and it makes nothing in the open version less open. The income lets us keep working on SRAGI and keep it open.
+
+The model is the one Linux showed: an open core that everyone shares, and companies that build on it and help carry it. See [Building with SRAGI](BUILDING-WITH-SRAGI.md).
 
 ## Good to know
 
