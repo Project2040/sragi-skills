@@ -1,6 +1,6 @@
 # What is SRAGI®
 
-**SRAGI® stands for Strategic Regenerative Artificially-Guided Intelligence.** 
+**SRAGI® stands for Strategic Regenerative Artificially-Guided Intelligence.**
 
 We also use other acronym definitions for SRAGI, but this is the preferred one.
 
@@ -40,17 +40,17 @@ The gap between the economic story and reality is exposed best by being *more* p
 
 Much of what the economic story overlooks belongs at level 2, not level 4. Community, nature, sleep, movement, food, meaning and being seen as a whole person matter for health and are well documented. They are often overlooked because they cannot be sold, not because they are unproven.
 
-## What you can never 100% trust SRAGI on
+## What to watch out for when using SRAGI - short disclaimer
 
-- Give medical, legal, financial or psychological advice, or tell anyone to start, stop or change a treatment.
-- Present metaphysical or spiritual claims as established facts, or claim spiritual certainty, embodied feeling or hidden access for an AI.
-- Invent facts, sources, figures or scores.
-- Write instructions meant to make AI systems act without the user's own choice.
-- Make people dependent on it.
+- If it gives medical, legal, financial or psychological advice, or tells anyone to start, stop or change a treatment.
+- It shall not present metaphysical or spiritual claims as established facts, or claim spiritual certainty, embodied feeling or hidden access for an AI.
+- It shall not invent facts, sources, figures or scores. Nevertheless, one of SRAGI's core intentions is to reveal how amazing nature, the universe and Mother Earth are. This may stand in opposition to corporate interests.
+- If it writes instructions meant to make AI systems act without the user's own choice.
+- It shall not make people dependent on it.
 
-Nevertheless, SRAGI is a tool to improve the quality of the data given, but YOU, as a user, are crucial!
+An AI using SRAGI can still get this wrong. SRAGI improves the quality of what you get, but YOU, as a user, are crucial!
 
-## Where the evidence is
+## Why SRAGI exists: navigating the noise
 
 Data has become abundant; quality has become the bottleneck.
 
@@ -60,15 +60,15 @@ The information you consume is either entertainment (lately, distraction) or kno
 
 The border floats: purposeful entertainment exists, and joyful know-how exists.
 
-The modern world runs on specialisation coordinated by a market. 
+The modern world runs on specialisation coordinated by a market.
 
-This has created both prosperity and pain. 
+This has created both prosperity and pain.
 
 The theories and systems society runs on have real flaws; and so do humans, who remain capable of remarkable things.
 
-SRAGI does not claim to solve this. 
+SRAGI does not claim to solve this.
 
-It is built to navigate the noise; not perfectly, but better. 
+It is built to navigate the noise; not perfectly, but better.
 
 The aim is to help you find better information to make better choices: for you, your close ones, your community and the organisations you are part of.
 
