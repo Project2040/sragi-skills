@@ -1,0 +1,81 @@
+name: "Contribution model: DCO or CLA? (advisory)"
+description: Advise us on how contributions to SRAGI should be licensed, before we open for pull requests.
+title: "Contribution model: "
+labels: ["feedback"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **This is an advisory consultation.** We do not accept pull requests yet. Before we do, we must decide how contributions are licensed, and we want advice first. Answers are weighed, not counted as votes. Neptunia Media AS makes the decision and will publish it in [CONTRIBUTING.md](https://github.com/Project2040/sragi-skills/blob/main/CONTRIBUTING.md).
+
+        Issues are public, so leave out personal and confidential details. You may answer in English or Norwegian. Nothing here is legal advice, and your answer is feedback, not a contribution to SRAGI.
+
+        ### The three options
+
+        **A. DCO (Developer Certificate of Origin).** You add a sign-off line to each commit (`git commit -s`) and thereby certify that you have the right to submit the work under the project's licence. There is no separate agreement. Contributions come in under CC BY-SA 4.0, the same licence they go out under. The Linux kernel works this way.
+
+        **B. DCO plus a narrow grant.** As A, and you also give Neptunia Media AS a non-exclusive right to offer your contribution under the commercial licence without ShareAlike. You keep your copyright, and your contribution stays available to everyone under CC BY-SA 4.0.
+
+        **C. CLA (Contributor Licence Agreement).** You sign a separate agreement once, usually through a bot on your first pull request. CLAs typically give the project owner broad rights to use and relicense contributions; a CLA for SRAGI would be drafted for this project. The Apache Software Foundation works this way.
+
+        ### Why the choice matters
+
+        SRAGI is free under CC BY-SA 4.0, and companies that want to build SRAGI into a product without ShareAlike can get a commercial licence (see [Building with SRAGI](https://github.com/Project2040/sragi-skills/blob/main/BUILDING-WITH-SRAGI.md)). Under A, that commercial licence could only cover text written by Neptunia Media AS, not contributed text. B keeps it possible through a narrow written permission, C through a broader agreement. In return, A is the simplest for contributors, and C asks the most of them.
+  - type: dropdown
+    id: preference
+    attributes:
+      label: Which model would you advise?
+      options:
+        - A. DCO
+        - B. DCO plus a narrow grant
+        - C. CLA
+        - Something else (explain below)
+        - No preference
+    validations:
+      required: true
+  - type: dropdown
+    id: effect
+    attributes:
+      label: Would the choice affect whether you contribute?
+      options:
+        - No, I would contribute under any of them
+        - Yes, I would avoid C
+        - Yes, I would only contribute under A
+        - I do not plan to contribute
+        - Not sure
+    validations:
+      required: true
+  - type: textarea
+    id: reasons
+    attributes:
+      label: Why?
+      description: Your reasons, and anything we may have overlooked.
+    validations:
+      required: true
+  - type: dropdown
+    id: perspective
+    attributes:
+      label: Your perspective
+      description: Optional. Choose all that fit.
+      multiple: true
+      options:
+        - User of SRAGI
+        - Possible contributor
+        - Company that may build on SRAGI
+        - Legal or licensing expertise
+        - Maintainer of another open project
+        - Other
+  - type: textarea
+    id: experience
+    attributes:
+      label: Experience from other projects
+      description: Optional. How has a DCO or a CLA worked for you elsewhere?
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirmation
+      options:
+        - label: I understand that this consultation is advisory, and that Neptunia Media AS makes the decision.
+          required: true
+        - label: My answer contains no personal data or confidential material.
+          required: true

@@ -16,7 +16,9 @@ Issues are public. Never post personal data, confidential material or anyone els
 
 We do not accept pull requests at this stage. The released instruction files are never changed by pull request: improvements go into new releases made by the maintainer.
 
-We may open for contributions later, together with a contributor licence agreement. Until then, ideas from issues may be adopted, but the maintainer writes any new text.
+Before we open for contributions, we must decide how they are licensed. There are three options: a DCO (Developer Certificate of Origin), a DCO plus a narrow grant, or a CLA (Contributor Licence Agreement). We want advice before we choose. Give yours in the [Contribution model](https://github.com/Project2040/sragi-skills/issues/new?template=contribution-model.yml) form, which explains the options. The consultation is advisory: Neptunia Media AS makes the decision and will publish it here.
+
+Until then, ideas from issues may be adopted, but the maintainer writes any new text.
 
 ## Rhythm
 
