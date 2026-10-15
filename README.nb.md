@@ -39,7 +39,7 @@ Ultra Lite, Lite og Beliefs ligger i [`releases/standalones/2026-10-01`](release
 
 Les [ansvarsfraskrivelsen](#ansvarsfraskrivelse) før du bruker SRAGI.
 
-Profilene er skrevet på engelsk, og AI-en svarer på språket du skriver på. Hver profil står på egne ben og aktiverer ikke de andre. Utgivelsesmappene inneholder også de opprinnelige utgivelsesnotatene, delvis på norsk. De nevner et internt arkiv og en plugin som ikke er en del av dette repoet.
+Profilene er skrevet på engelsk, og AI-en svarer på språket du skriver på. Hver profil står på egne ben og aktiverer ikke de andre. Hver utgivelsesmappe har en README på engelsk. De opprinnelige utgivelsesnotatene på norsk ligger ved siden av som `README.nb.md`. De nevner et internt arkiv og en plugin som ikke er en del av dette repoet.
 
 ## Prøv på to minutter
 

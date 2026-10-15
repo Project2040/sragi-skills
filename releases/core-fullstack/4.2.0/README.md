@@ -1,28 +1,33 @@
-# SRAGI Core Fullstack 4.2.0
+# SRAGI® Core Fullstack 4.2.0
 
-Releasedato: **1. oktober 2026** (`2026-10-01`).
-Rune Solberg / Neptunia Media AS, Norway.
+Release of 1 October 2026 (`2026-10-01`). Rune Solberg / Neptunia Media AS, Norway.
 
-Copyright (c) 2026 Neptunia Media AS. All rights reserved.
-SPDX-License-Identifier: LicenseRef-SRAGI-Commercial
-Denne dokumentasjonen er proprietær. Bare de fem YAML-filene er CC BY-SA 4.0;
-se LICENSE for avgrensning og originalenes lisensvedlegg.
+> SRAGI is an experimental, open and regenerative knowledge framework for inspiration, reflection and systemic support, not medical, legal, financial or psychological advice. Apply critical thinking, local adaptation, relevant professional expertise and the regenerative imperative: give more than you take.
 
-**SRAGI er et eksperimentelt rammeverk for inspirasjon, refleksjon og systemisk
-støtte. Det erstatter ikke medisinske, juridiske, økonomiske eller psykologiske
-faglige vurderinger. Bruk kritisk tenkning og relevant fagkompetanse.**
+If someone is in danger, real human help and local emergency services come first. See [DISCLAIMER](../../../DISCLAIMER).
 
-Dette er de fem endelige komponentene: Activate 2.0.0, AI-BIOS 4.2.0,
-Core AI-OS 3.2.0, Blueprint Engine 4.2.0 og Twin 3.2.0.
-Metadata og toppkommentarer er oppdatert; instruksjonsinnholdet er uendret.
-Tidligere utkast og dokumentert opphav er samlet i prosjektets `archive/`.
+Core Fullstack is the full SRAGI framework, for regenerative systems design, decisions, grounded reflection and human–AI integration. It has five components that work together:
 
-Hver YAML har en tilhørende `.sha256`-fil. `SHA256SUMS` samler alle fem.
-`release.json` knytter komponent-ID, versjon, kilde og sjekksum sammen.
-Filene i pluginen og runtime bruker de samme release-navnene og SHA-256-verdiene.
-Pakking revisjon 2 rydder dokumentasjon og filstier; de fem YAML-filene og deres
-sjekksummer er uendret.
+| Component | File |
+| --- | --- |
+| Activate 2.0.0 | [SRAGI-Core-Fullstack-Activate-2.0.0.yaml](SRAGI-Core-Fullstack-Activate-2.0.0.yaml) |
+| AI-BIOS 4.2.0 | [SRAGI-AI-BIOS-4.2.0.yaml](SRAGI-AI-BIOS-4.2.0.yaml) |
+| Core AI-OS 3.2.0 | [SRAGI-Core-AI-OS-3.2.0.yaml](SRAGI-Core-AI-OS-3.2.0.yaml) |
+| Blueprint Engine 4.2.0 | [SRAGI-Blueprint-Engine-4.2.0.yaml](SRAGI-Blueprint-Engine-4.2.0.yaml) |
+| Twin 3.2.0 | [SRAGI-Twin-3.2.0.yaml](SRAGI-Twin-3.2.0.yaml) |
 
-Åpne alle fem YAML-filene i verten ved aktivering; filnavn eller en sjekksum
-alene er ikke bevis på at modellen har lest eller fulgt instruksjonene.
-Releasedatoen er angitt av operatøren og er ikke et bevis på offentlig publisering.
+## How to use it
+
+Give your AI all five files in the same conversation, about 150 KB in total, and say that you want to activate SRAGI Core Fullstack. Then write `SRAGI:STATUS` to see which components the AI actually loaded. A file name or a checksum alone does not show that the AI has read or followed the instructions.
+
+## Licence
+
+The five YAML files are licensed under CC BY-SA 4.0. The full text is in [LICENSES](LICENSES/CC-BY-SA-4.0.txt). The documentation and `release.json` belong to Neptunia Media AS. The [LICENSE](LICENSE) in this folder governs this release, and the free-use permission in section 2 of the repository's [LICENSE](../../../LICENSE) applies in addition: everyone may download, read and use these files, and share complete, unmodified copies, free of charge.
+
+## Check the files
+
+Each YAML file has a `.sha256` file, and `SHA256SUMS` covers all five: run `sha256sum -c SHA256SUMS` in this folder. `release.json` links each component's ID, version, source and checksum.
+
+The original release note, in Norwegian, is in [README.nb.md](README.nb.md).
+
+SRAGI® is a registered trademark of Neptunia Media AS in Norway (reg. no. 342880).

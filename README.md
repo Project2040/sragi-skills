@@ -39,7 +39,7 @@ Ultra Lite, Lite and Beliefs are in [`releases/standalones/2026-10-01`](releases
 
 Before you use SRAGI, read the [disclaimer](#disclaimer).
 
-The profiles are written in English, and the AI answers in the language you write in. Each profile stands alone and does not activate the others. The release folders also contain the original release notes, partly in Norwegian. They mention an internal archive and plugin that are not part of this repository.
+The profiles are written in English, and the AI answers in the language you write in. Each profile stands alone and does not activate the others. Each release folder has an English README. The original release notes, in Norwegian, are kept next to it as `README.nb.md`. They mention an internal archive and a plugin that are not part of this repository.
 
 ## Try it in two minutes
 
